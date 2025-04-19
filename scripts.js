@@ -1,7 +1,7 @@
 const form = document.querySelector("#all-form");  /*seletor de consulta*/
 const input = document.querySelector("#all-input");
 const list = document.querySelector("#all-list");
-const filterButtons = document.querySelector(".filter button");
+const filterButtons = document.querySelectorAll(".filter");
 
 let todos = [];
 
