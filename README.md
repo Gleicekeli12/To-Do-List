@@ -40,6 +40,7 @@ Você pode simplesmente clicar duas vezes no arquivo ou abrir com a extensão Li
 👩‍💻 Desenvolvedora
 Feito com 💙 por Gleice Keli
 
-- GitHub: <a href="https://github.com/Gleicekeli12">@Gleicekeli12</a>
+- <img src="https://www.flaticon.com/br/icone-gratis/logotipo-do-github_25231" alt="logo-GitHub"/>:
+<a href="https://github.com/Gleicekeli12">@Gleicekeli12</a>
 
 - LinkedIn: <a href="https://www.linkedin.com/in/gleice-keli-felipe9670/">Gleice Keli Felipe</a>
