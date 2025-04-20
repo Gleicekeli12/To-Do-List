@@ -41,6 +41,7 @@ Você pode simplesmente clicar duas vezes no arquivo ou abrir com a extensão Li
 Feito com 💙 por Gleice Keli
 
 <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=999999" alt="logo-GitHub"/>
-<h1> <a href="https://github.com/Gleicekeli12">@Gleicekeli12</a> </h1>
+<h3> <a href="https://github.com/Gleicekeli12">@Gleicekeli12</a> </h3>
 
-- LinkedIn: <a href="https://www.linkedin.com/in/gleice-keli-felipe9670/">Gleice Keli Felipe</a>
+<img src="https://img.icons8.com/?size=100&id=84888&format=png&color=999999" alt="logo-Linkedin"/>
+<h3> <a href="https://www.linkedin.com/in/gleice-keli-felipe9670/">Gleice Keli Felipe</a> </h3>
