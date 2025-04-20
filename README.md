@@ -1,6 +1,6 @@
 # 📋 To-Do List
 
-Uma aplicação simples de lista de tarefas (To-Do List), desenvolvida com **HTML, CSS e JavaScript**, ideal para organizar seu dia de forma prática e intuitiva.
+Uma aplicação pessoal, simples de lista de tarefas (To-Do List), desenvolvida com **HTML, CSS e JavaScript**, ideal para organizar seu dia de forma prática e intuitiva.
 
 ## 🚀 Funcionalidades
 
