@@ -37,6 +37,8 @@ Você pode acessar o repositório aqui:
 
 Você pode simplesmente clicar duas vezes no arquivo ou abrir com a extensão Live Server no VSCode.
 
+<img src="https://github.com/Gleicekeli12/To-Do-List/blob/main/img/to-do-list.PNG?raw=true" alt="logo" width="100"/>
+
 🙋‍♀️ Desenvolvedora Gleice Keli Feito com 💙
 
 <img src="https://img.icons8.com/?size=100&id=84888&format=png&color=999999" alt="logo-Linkedin" width="30" /> <a href="https://www.linkedin.com/in/gleice-keli-felipe9670/">Gleice Keli Felipe</a>
