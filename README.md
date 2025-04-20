@@ -3,7 +3,6 @@
 Uma aplicação pessoal, simples de lista de tarefas (To-Do List), desenvolvida com **HTML, CSS e JavaScript**, ideal para organizar seu dia de forma prática e intuitiva.
 
 ## 🌐 Descrição
-
 Aplicação web para organização de tarefas diárias, onde é possível adicionar, filtrar (todas, pendentes, concluídas) e remover tarefas.
 
 
