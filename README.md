@@ -40,5 +40,5 @@ Você pode simplesmente clicar duas vezes no arquivo ou abrir com a extensão Li
 👩‍💻 Desenvolvedora
 Feito com 💙 por Gleice Keli
 
-<img src="https://img.icons8.com/?size=100&id=84888&format=png&color=999999" alt="logo-Linkedin" width:20px />
+<img src="https://img.icons8.com/?size=100&id=84888&format=png&color=999999" alt="logo-Linkedin" width="20" />
 <h4> <a href="https://www.linkedin.com/in/gleice-keli-felipe9670/">Gleice Keli Felipe</a> </h4>
