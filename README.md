@@ -23,7 +23,7 @@ Você pode acessar o repositório aqui:
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javaScript"/>
 
-## ⚙️ Como Usar Localmente
+## ⚙️ Como rodar o projeto Localmente
 
 1. Clone este repositório:
 
@@ -37,7 +37,6 @@ Você pode acessar o repositório aqui:
 
 Você pode simplesmente clicar duas vezes no arquivo ou abrir com a extensão Live Server no VSCode.
 
-👩‍💻 Desenvolvedora
-Feito com 💙 por Gleice Keli
+🙋‍♀️ Desenvolvedora Gleice Keli Feito com 💙
 
 <img src="https://img.icons8.com/?size=100&id=84888&format=png&color=999999" alt="logo-Linkedin" width="30" /> <a href="https://www.linkedin.com/in/gleice-keli-felipe9670/">Gleice Keli Felipe</a>
