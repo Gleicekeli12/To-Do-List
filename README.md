@@ -29,13 +29,17 @@ Você pode acessar o repositório aqui:
 
    ```bash
    git clone https://github.com/Gleicekeli12/To-Do-List.git
+   ```
 
 2. Acesse a pasta do projeto:
+
+   ```bash
    cd To-Do-List
+   ```
 
-3. Abra o arquivo index.html em seu navegador.
+3. Abra o arquivo `index.html` em seu navegador.
 
-Você pode simplesmente clicar duas vezes no arquivo ou abrir com a extensão Live Server no VSCode.
+Você pode simplesmente clicar duas vezes no arquivo `index.html` ou abrir com a extensão Live Server no VSCode.
 
 <img src="https://github.com/Gleicekeli12/To-Do-List/blob/main/img/to-do-list.PNG?raw=true" alt="logo" width="450" />
 
